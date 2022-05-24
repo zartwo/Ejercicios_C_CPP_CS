@@ -134,7 +134,7 @@ int main()
     int x ;    // numero que devuelve la funcon pop
     int n;     // n datos
    
-    system("color 0b");
+    
  
     do
     {
@@ -236,6 +236,6 @@ int main()
     }while(op!=9);
    
 
-   cout<<"Pulsa enter para salir del problema"
+   cout<<"Pulsa enter para salir del problema";
     return 0;
 }
